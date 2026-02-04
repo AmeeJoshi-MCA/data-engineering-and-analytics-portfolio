@@ -86,11 +86,13 @@ Business-focused analytics project analyzing **loan performance, risk indicators
 ## 🎯 What I’m Looking For
 
 Data-focused roles such as:
-- Data Engineer  
-- Azure Data Engineer  
-- Analytics Engineer  
-- BI Developer  
-- Cloud Data Engineer  
+  - Data Engineer
+  - Azure Data Engineer
+  - Analytics Engineer
+  - Cloud Data Engineer
+  - Data Platform Engineer
+  - Data Analytics Engineer
+
 
 ---
 
