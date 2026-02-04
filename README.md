@@ -69,6 +69,10 @@ Business-focused analytics project analyzing **loan performance, risk indicators
   🔗 https://github.com/AmeeJoshi-MCA/Social-Media-Ad-Performance  
   Data analysis project evaluating ad performance metrics and campaign effectiveness.
 
+- **Blinkit-Analysis**  
+  🔗 [https://github.com/AmeeJoshi-MCA/Blinkit-Analysis](https://github.com/AmeeJoshi-MCA/Blinkit-Analysis)  
+  Data analysis project evaluating e-commerce app for grocery.
+
 ---
 
 ## 🛠️ Tech Stack & Tools
