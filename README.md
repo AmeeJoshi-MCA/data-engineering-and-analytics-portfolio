@@ -21,13 +21,14 @@ These projects are designed to mirror real-world enterprise data platforms, focu
 
 ### 1️⃣ Azure Databricks End-to-End Retail Lakehouse  
 🔗 https://github.com/AmeeJoshi-MCA/azure-databricks-end-to-end-retail-lakehouse  
-End-to-end lakehouse implementation using **Azure Databricks**, covering ingestion, transformation, and analytics layers following **medallion architecture** for scalable retail analytics.
+
+Enterprise-style Azure Databricks Lakehouse built using Medallion Architecture (Bronze–Silver–Gold), featuring incremental ingestion, Delta Lake transactional modeling, SCD Type 1 & 2 dimensions, append-only fact tables, and analytics-ready datasets for retail BI and reporting.
 
 ---
 
 ### 2️⃣ Azure End-to-End Data Engineering – AdventureWorks  
 🔗 https://github.com/AmeeJoshi-MCA/azure-end-to-end-data-engineering-adventure-works  
-Complete Azure data pipeline from **raw ingestion to curated datasets**, enabling downstream analytics and BI reporting using structured enterprise data.
+Production-style Azure data engineering solution using ADF, ADLS Gen2, Databricks, and Synapse to deliver metadata-driven ingestion, Medallion Architecture processing, and analytics-ready datasets optimized for BI and enterprise reporting.
 
 ---
 
