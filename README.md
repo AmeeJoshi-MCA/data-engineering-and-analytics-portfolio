@@ -34,13 +34,13 @@ Production-style Azure data engineering solution using ADF, ADLS Gen2, Databrick
 
 ### 3️⃣ SQL Server Data Warehouse & Analytics  
 🔗 https://github.com/AmeeJoshi-MCA/SQL-Server-DataWarehouse-and-Analytics  
-Enterprise-style **data warehouse design and analytics** project focusing on dimensional modeling, SQL transformations, and analytics-ready reporting structures.
+Built Medallion-layered Star Schema in SQL Server. Optimized T-SQL ETL pipelines to create a Single Source of Truth for advanced analytics & high-performance BI reporting.
 
 ---
 
 ### 4️⃣ Bank Loan Data Analysis  
 🔗 https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis  
-Business-focused analytics project analyzing **loan performance, risk indicators, and KPIs**, delivering insights through structured data analysis and reporting.
+Engineered an ETE risk reporting analyzing loan performance, risk indicators, and KPIs, using SQL, Python, and Power BI , tableau, Excel. Automated KPI tracking and loan segmentation to drive data-driven financial risk assessments.
 
 ---
 
@@ -48,7 +48,7 @@ Business-focused analytics project analyzing **loan performance, risk indicators
 
 - **Spotify End-to-End Azure Data Engineering Pipeline**  
   🔗 https://github.com/AmeeJoshi-MCA/Spotify-EndToEnd-Azure-Data-Engineering-Pipeline  
-  End-to-end Azure pipeline ingesting raw Spotify data and preparing analytics-ready datasets.
+  Deployed a production-grade Azure Lakehouse via Databricks Asset Bundles (DABs). Utilized Delta Live Tables, CDC, and ADF watermarking to ensure scalable, ETE incremental data processing and security.
 
 - **Azure Data Engineering Framework – Dynamic Ingestion**  
   🔗 https://github.com/AmeeJoshi-MCA/Azure-Data-Engineering-Framework-Dynamic-Ingestion  
@@ -56,31 +56,32 @@ Business-focused analytics project analyzing **loan performance, risk indicators
 
 - **Enterprise Data Engineering with Azure Data Factory**  
   🔗 https://github.com/AmeeJoshi-MCA/Azure-data-factory-enterprise-data-engineering  
-  Enterprise-style ADF pipelines with orchestration, transformations, and data validation.
+ Implemented a modular ADF ingestion framework for enterprise scales. Developed metadata-driven pipelines, REST API pagination, and delta loads, integrating Logic App alerts and GitHub CI/CD.
 
 - **AdventureWorks Excel Sales Analytics Dashboard**  
   🔗 https://github.com/AmeeJoshi-MCA/AdventureWorks-Excel-Sales-Analytics-Dashboard  
-  Sales performance analytics and KPI reporting using structured Excel dashboards.
+  AdventureWorks Analysis: Built a professional BI suite in Excel using Power Query and Power Pivot. Developed DAX-driven star schemas and interactive dashboards to track YoY growth and customer profitability.
 
 - **Spotify User Behavior Analytics (Power BI)**  
   🔗 https://github.com/AmeeJoshi-MCA/Spotify-User-Behavior-Analytics-PowerBI  
-  User behavior analysis and interactive dashboards built in Power BI.
+  Created a Power BI suite featuring Heat Maps and Quadrant Analysis. Developed complex DAX measures and star schemas to analyze 11 years of user behavior and engagement metrics.
 
 - **Social Media Ad Performance Analytics**  
   🔗 https://github.com/AmeeJoshi-MCA/Social-Media-Ad-Performance  
-  Data analysis project evaluating ad performance metrics and campaign effectiveness.
+  Architected a Power BI marketing suite using SQL and DAX. Optimized ad spend by analyzing funnel metrics (CTR, Conversion, ROI) across demographics for data-driven campaign scaling.
 
 - **Blinkit-Analysis**  
   🔗 [https://github.com/AmeeJoshi-MCA/Blinkit-Analysis](https://github.com/AmeeJoshi-MCA/Blinkit-Analysis)  
-  Data analysis project evaluating e-commerce app for grocery.
+  Executed a full SQL-Python-BI pipeline to optimize inventory and sales. Developed statistical models and Power BI reports to identify operational inefficiencies and revenue drivers.
 
+  
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **Cloud & Data Platforms:** Microsoft Azure, Azure Data Factory, Azure Data Lake Storage (Gen2), Azure Databricks  
-- **Data Engineering:** ETL / ELT Pipelines, Medallion Architecture (Bronze–Silver–Gold), Lakehouse Architecture, SQL, Python, Data Modeling, Data Quality & Validation  
-- **Analytics & BI:** Power BI, Tableau, Excel, KPI Reporting, Data Visualization  
+- **Cloud & Data Platforms:** Azure (Synapse Analytics, Databricks, ADF, ADLS Gen2, Unity Catalog) 
+- **Data Engineering:** ETL / ELT Pipelines, Medallion Architecture (Bronze–Silver–Gold), Lakehouse Architecture, Data Modeling, Data Quality & Validation  
+- **Analytics & BI:** Power BI, Tableau, Excel (Power Pivot), Financial KPIs  
 - **Engineering Practices:** Git, GitHub, Version Control, Modular Pipeline Design, Documentation  
 
 *Primary focus on Azure-based data platforms, with cloud-agnostic data engineering principles applicable across environments.*
